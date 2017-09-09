@@ -6,9 +6,10 @@ In the beginning, we would basically create a tools which could verify a million
 
 This project should be easily pluggable or modifiable to fit the need of individual organizations.
 
-[http://www.investopedia.com/terms/a/aml.asp (More)]
+See:
+http://www.investopedia.com/terms/a/aml.asp
 
-It is a community project [CloudxLab.com]. Feel free to be the contributor.
+It is a community project by [http://www.CloudxLab.com]. Feel free to be the contributor.
 
 ## Plan
 
